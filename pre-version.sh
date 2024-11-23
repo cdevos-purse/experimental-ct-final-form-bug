@@ -1,0 +1,1 @@
+npm run test:forCoverage && git add -f coverage/
